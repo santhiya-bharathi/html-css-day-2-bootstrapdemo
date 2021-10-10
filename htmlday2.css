@@ -59,6 +59,7 @@ left:8rem;
 }
 .search-text{
     font-family: sans-serif;
+    margin-left: 1rem;
 }
 .box1{
 background: black;
@@ -101,6 +102,7 @@ position: relative;
 bottom: 4rem;
 left:3rem;
 }
+
 
 @media(max-width:500px){
  .container{
